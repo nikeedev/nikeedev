@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikeedev
+- 👋 Hi, I’m [nikeedev](@nikeedev)
 - 👀 I’m interested in Python programming, and Web Development and much more!!.
 - 🌱 I’m currently working with websites, games, apps and etc. a developer does.
 - 💞️ I’m looking to collaborate on Python people who like to make projects.
