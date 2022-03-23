@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @nikeedev
-- 👀 I’m interested in Python programming, and Web Development and much more!!.
-- 🌱 I’m currently working with websites, games, apps and etc. a developer does.
-- 💞️ I’m looking to collaborate on Python people who like to make projects.
+- 👀 I’m interested in Web Development and C# programming!!.
+- 🌱 I’m currently working with websites, games, apps and etc. anythin a regular developer does.
+- 💞️ I’m looking to collaborate on people who like to make projects using Javascript or/and C#.
 
-<!---
-nikeedev/nikeedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=radical)
