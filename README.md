@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on people who like to make projects using Javascript or/and C#.
 
 
-![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=radical)
+![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=nord)
