@@ -6,3 +6,5 @@
 
 ![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeedev&layout=compact&show_icons=true&theme=nord)
+<br>
+![](https://hit.yhype.me/github/profile?user_id=69197950)
