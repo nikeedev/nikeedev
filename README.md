@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nikeedev
 - 👀 I’m interested in web and game development!
-- 🌱 I’m currently working on a game engine: [PlayLib](https://github.com/nikeedev/playlib).
-- I’m can collaborate with people who like to make projects using Javascript and HTML or games.
+- 🌱 I’m currently working on mine game library: [PlayLib](https://github.com/nikeedev/playlib).
+
+I usually code in Typescript and JavaScript, but also learning C++.
 
 
 ![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=nord)
