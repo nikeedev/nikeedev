@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikeedev
 - 👀 I’m interested in web and game development!
-- 🌱 I’m currently working on mine game library: [PlayLib](https://github.com/nikeedev/playlib).
+- 🌱 I’m currently working on mine game library: [Playlib](https://github.com/nikeedev/playlib).
 
 I usually code in Typescript and JavaScript, but also learning C++.
 
