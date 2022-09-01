@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on mine C++ game engine: [Grass](https://github.com/nikeedev/grass) 
 
 
-I usually code in Typescript and C++.
+I usually code in C++, aswell as i am learning it :)
 
 
 ![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=nord)
