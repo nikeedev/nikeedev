@@ -6,7 +6,7 @@
 I usually code in JS and C++, aswell as i am learning it :)
 
 
-![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=gruvbox)
+![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=onedark)
 
 <br>
 
