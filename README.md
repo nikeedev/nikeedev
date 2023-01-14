@@ -10,10 +10,13 @@ I’m interested in software and game development!
 I’m currently working on miscellaneous projects, like [scratch-v](https://github.com/nikeedev/scratch-v), which is a code to connect to Turbowarp through websocket, to manage cloud variables inside Scratch projects 
 
 <br>
-I code in [V](https://github.com/vlang/v) and C++, aswell as i am learning them :)
+
+I code in [V](https://github.com/vlang/v) and JS :)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="v" src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png"></code>
 
 
-![nikeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeedev&show_icons=true&theme=gruvbox)
 
 <br>
 
