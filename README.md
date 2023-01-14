@@ -1,13 +1,13 @@
 Hello, I’m Nikita, 15 year old boy coding.
 
-<br>
 
 I've done coding for 2.5 years now (updated on December 29th, 2022), and begun in August 2020.
 
-<br><br>
-
 I’m interested in software and game development!
-I’m currently working on miscellaneous projects, like [scratch-v](https://github.com/nikeedev/scratch-v), which is a code to connect to Turbowarp through websocket, to manage cloud variables inside Scratch projects 
+
+I’m currently working on various projects, like [scratch-v](https://github.com/nikeedev/scratch-v), which is a code to connect to Turbowarp through websocket, to manage cloud variables inside Scratch projects.
+
+I use V which has a lot like `gg` module to draw graphics, or `net` module which has websocket, http, fetch and a lot more, and many other modules.
 
 <br>
 
