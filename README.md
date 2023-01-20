@@ -11,7 +11,7 @@ I use V which has a lot like `gg` module to draw graphics, or `net` module which
 
 <br>
 
-I code in [V](https://github.com/vlang/v) and JS :)
+I code in [V](https://github.com/vlang/v) and JS, and I have knowledge in Python, C++ and C# :)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="v" src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png"></code>
