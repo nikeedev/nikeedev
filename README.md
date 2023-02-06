@@ -2,7 +2,7 @@ Hi!
 I’m Nikita, an 15 year old boy who can coding.
 
 
-I've done coding for 2.5 years now (updated on December 29th, 2022), and begun in August 2020.
+I've done coding for 2.7 years now (updated on February 6th, 2023), and begun in August 2020.
 
 I’m interested in creating programs, apps and stuff in game development! I also like exploring new programming languages
 
