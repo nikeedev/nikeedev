@@ -1,4 +1,5 @@
-Hello, I’m Nikita, 15 year old boy coding.
+Hi!
+I’m Nikita, an 15 year old boy who can coding.
 
 
 I've done coding for 2.5 years now (updated on December 29th, 2022), and begun in August 2020.
