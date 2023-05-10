@@ -16,6 +16,6 @@ Known and used technologies/languages:
   C++
   V
   
-Favourite code editors: 
+Favourite code editors and IDE's: 
 Visual Studio Code and Visual Studio 
 ```
