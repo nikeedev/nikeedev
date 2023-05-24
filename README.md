@@ -10,9 +10,10 @@ I’m currently working on various projects, most of them I'm working on are
 shown in "repositories" page, as i usually don't update the pinned ones.
 
 Used languages:
-- C++ (mostly used)
+- C++ (used a lot)
 - JavaScript (mostly used)
-- C# (kinda used, check repos)
+- Rust (just learning it now since 24.05.23)
+- C# (kinda used...)
     
 My favourite code editors and IDE's: 
 Visual Studio Code and Visual Studio 
