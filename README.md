@@ -1,9 +1,9 @@
 
 Hi!
 
-I’m Nikita, an 15 year old boy who writes text files like code for 2.8 years now and begun since August 2020.
+I’m Nikita, an 15 year old boy, been coding for 2.5 years.
 
-I’m interested in creating programs, apps, game engines and other stuff for game development!
+I’m interested in creating programs, apps, game engines and other tools for game development!
 I also like exploring new programming languages
 
 I’m currently working on various projects, most of them I'm working on are
