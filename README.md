@@ -11,6 +11,7 @@ shown in "repositories" page, as i usually don't update the pinned ones.
 
 Used languages:
 - JavaScript (mostly used)
+- V (used a lot)
 - C++ (used a lot)
 - Rust (thnking about to learn it)
 - C# (kinda used...)
