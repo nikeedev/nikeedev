@@ -11,12 +11,11 @@ shown in "repositories" page, as i usually often don't update the pinned ones.
 
 Used languages:
 - JavaScript (mostly used)
+- C++ (mostly used)
+- Rust (kinda learning it, sometimes not)
 - V (used a lot)
-- C++ (used a lot)
-- Rust (thnking about to learn it)
 - C# (kinda used...)
     
-My favourite code editors and IDE's: 
-Visual Studio Code and Visual Studio 
+My favourite code editor and IDE are Visual Studio Code and Visual Studio. Both do a seamlessly good job
 
 `:]`
