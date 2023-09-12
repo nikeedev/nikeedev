@@ -7,7 +7,7 @@ I’m interested in creating programs, apps, game engines and other tools for ga
 I also like exploring new programming languages
 
 I’m working on various projects/software, most of them I'm working on are
-shown in "repositories" page, as i usually often don't update the pinned ones.
+shown in "repositories" page, as i usually often don't update the pinned ones on my profile page.
 
 Used languages:
 - JavaScript (mostly used)
