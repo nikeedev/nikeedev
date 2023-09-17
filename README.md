@@ -19,5 +19,3 @@ Used languages:
 My favourite code editor and IDE are Visual Studio Code and Visual Studio. Both do a seamlessly good job
 
 `:]`
-
-![](https://profile-counter.glitch.me/nikeedev/count.svg)
