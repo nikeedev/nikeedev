@@ -16,6 +16,6 @@ Used languages:
 - V (used a lot)
 - C# (kinda used...)
     
-My favourite code editor and IDE are Visual Studio Code and Visual Studio. Both do a seamlessly good job
+My favourite code editor and IDE are Visual Studio Code, neovim and as IDE I use Visual Studio. Both do a seamlessly good job
 
 `:]`
