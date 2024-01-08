@@ -12,9 +12,9 @@ shown in "repositories" page, as i usually often don't update the pinned ones on
 Used languages:
 - JavaScript (mostly used)
 - C++ (mostly used)
-- Rust (kinda learning it, sometimes not)
+- Rust (used sometimes)
 - V (used a lot)
-- C# (kinda used...)
+- C# (kinda used...not a lot)
     
 My favourite code editor and IDE are Visual Studio Code, neovim and as IDE I use Visual Studio. Both do a seamlessly good job
 
