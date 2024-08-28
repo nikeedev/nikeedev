@@ -10,11 +10,12 @@ I’m working on various projects/software, most of them I'm working on are
 shown in "repositories" page, as i usually often don't update the pinned ones on my profile page.
 
 Used languages:
-- JavaScript (mostly used)
+- JavaScript (this includes also HTML and CSS on a very good level) (mostly used) 
+- Rust (mostly used)
 - C++ (mostly used)
-- Rust (used sometimes)
-- V (used a lot)
 - C# (kinda used...not a lot)
+- V (used a lot)
+- I have different projects, so I of course have used more languages than mentioned, but those I mentioned is just a reference of what programming language i currently use.
     
 My favourite code editor and IDE are Visual Studio Code, neovim and as IDE I use Visual Studio. Both do a seamlessly good job
 
