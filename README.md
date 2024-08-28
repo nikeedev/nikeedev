@@ -1,7 +1,7 @@
 
 Hi!
 
-I’m Nikita, an 16 year old boy, been coding since 12.
+I’m Nikita, been coding since 12 yrs. old.
 
 I’m interested in creating programs, apps, game engines and other tools for game development!
 I also like exploring new programming languages
