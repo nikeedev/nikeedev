@@ -15,12 +15,14 @@ Used languages:
 - C++ (mostly used)
 - C# (kinda used...not a lot)
 - V (used a lot)
+- Python (a lot)
+- 
 - I have different projects, so I of course have used more languages than mentioned, but those I mentioned is just a reference of what programming language i currently use.
     
 My favourite code editor and IDE are Visual Studio Code, neovim and as IDE I use Visual Studio. Both do a seamlessly good job
 
 `:]`
 
-`a little stats here`:
+a little stats here:
 
-![nikeedev's Stats](https://github-readme-stats.vercel.app/api?username=nikeedev&theme=prussian&show_icons=true&hide_border=true&count_private=false)
+![nikeedev's Stats](https://github-readme-stats.vercel.app/api?username=nikeedev&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
