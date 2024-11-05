@@ -16,7 +16,6 @@ Used languages:
 - C# (kinda used...not a lot)
 - V (used a lot)
 - Python (a lot)
-- 
 - I have different projects, so I of course have used more languages than mentioned, but those I mentioned is just a reference of what programming language i currently use.
     
 My favourite code editor and IDE are Visual Studio Code, neovim and as IDE I use Visual Studio. Both do a seamlessly good job
