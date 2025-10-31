@@ -3,7 +3,7 @@ Hi!
 
 I’m Nikita :)
 
-I’m interested in creating programs, apps, game engines and other tools for game development!
+I’m interested in creating programs, apps, game engines and other tools for web, desktop or game development!
 I also like exploring new programming languages
 
 I’m working on various projects/software, most of them I'm working on are
